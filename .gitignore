@@ -1,0 +1,7 @@
+/dev/.terraform
+/.history
+/terraform.tfstate
+/terraform.tfstate.backup
+/dev/.terraform.lock.hcl
+/file
+/documents
